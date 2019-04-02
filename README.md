@@ -1,9 +1,5 @@
 # simpleProfile
-Copyright (C) 2019 Patrick Mifsud
+Copyright (C) 2019 Ian Nguyen
 
 A simple portfolio site template for a The RMIT Programming Club workshop
 
-
-![example](/example.png "Screenshot of site")
-
-[Click Here to see Sample Page](https://simpleprofile.netlify.com/)
