@@ -91,6 +91,10 @@ padding-bottom: 35px;
   text-decoration: none;
 }
 
+.footer-link:hover{
+  color:#EAF6F6;
+  }
+
 .info{
   margin-bottom: 60px;
   line-height: 2;
