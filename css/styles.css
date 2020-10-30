@@ -330,6 +330,11 @@ h3 {
     font-size: 1em;
   }
 
+  .profile-img {
+    width: 200px;
+    height: 200px;
+    margin: 5% auto;
+  }
   .about-paragraph p {
     font-size: 1em;
   }
