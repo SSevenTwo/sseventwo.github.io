@@ -313,7 +313,7 @@ h3 {
   color: #b3b3b3;
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
   .navbar-brand {
     font-size: 1.5em;
   }
@@ -323,11 +323,11 @@ h3 {
   }
 
   .big-heading {
-    font-size: 10em;
+    font-size: 5em;
   }
 
   .slogan {
-    font-size: 3em;
+    font-size: 1em;
   }
 
   .about-paragraph p {
@@ -335,12 +335,17 @@ h3 {
   }
 
   .about-table td {
-    font-size: 1em;
+    font-size: 0.75em;
   }
 
   .btn-download {
     font-size: 1em;
   }
+
+  .download-btn {
+    font-size: 1em;
+  }
+
   .section-title {
     font-size: 2em;
   }
