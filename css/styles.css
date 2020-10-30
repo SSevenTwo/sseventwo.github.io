@@ -362,10 +362,19 @@ h3 {
   }
   .card {
     font-size: 1em;
-    wdith: 20px;
   }
 
   .card-btn {
     font-size: 1em;
+  }
+
+  .carousel-control-prev {
+    margin-left: 0;
+    display: none;
+  }
+
+  .carousel-control-next {
+    margin-right: 0;
+    display: none;
   }
 }
